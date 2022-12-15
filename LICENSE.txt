@@ -1,8 +1,8 @@
 Public Domain in the US
 
 This eBook, including all associated images, markup, improvements,
-and any other content or labor, has been confirmed to be in the
-PUBLIC DOMAIN IN THE UNITED STATES.
+metadata, and any other content or labor, has been confirmed to be 
+in the PUBLIC DOMAIN IN THE UNITED STATES.
 
 Procedures for determining public domain status are described in
 the "copyright how-to" at https://www.gutenberg.org
