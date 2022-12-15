@@ -1,1 +1,2 @@
-Project Gutenberg (https://www.gutenberg.org) public repository for etext 70002
+Project Gutenberg (https://www.gutenberg.org) public repository 
+for eBook #70002 (https://www.gutenberg.org/ebooks/70002).
